@@ -1,0 +1,14 @@
+# Ignore python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Ignore local datasets and cache
+datasets/
+runs/
+.yaml
+.cache/
+
+# Ignore heavy weights files (Optional, keep if you don't want to upload .pt files)
+*.pt

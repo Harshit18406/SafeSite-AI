@@ -1,0 +1,15 @@
+Timestamp,Violation_Type,Status
+2026-06-05 19:43:48,NO-Hardhat,UNSAFE
+2026-06-05 19:43:53,NO-Hardhat,UNSAFE
+2026-06-05 19:43:58,NO-Hardhat & NO-Safety Vest,UNSAFE
+2026-06-05 19:44:03,NO-Safety Vest & NO-Hardhat,UNSAFE
+2026-06-05 19:44:08,NO-Hardhat & NO-Safety Vest,UNSAFE
+2026-06-05 19:44:14,NO-Hardhat & NO-Safety Vest,UNSAFE
+2026-06-05 19:44:19,NO-Hardhat & NO-Safety Vest,UNSAFE
+2026-06-05 19:44:24,NO-Hardhat & NO-Safety Vest,UNSAFE
+2026-06-05 19:44:29,NO-Hardhat & NO-Safety Vest,UNSAFE
+2026-06-05 19:44:34,NO-Safety Vest & NO-Hardhat,UNSAFE
+2026-06-05 19:44:43,NO-Safety Vest,UNSAFE
+2026-06-05 19:44:49,NO-Safety Vest,UNSAFE
+2026-06-05 19:44:54,NO-Hardhat & NO-Safety Vest,UNSAFE
+2026-06-05 19:44:59,NO-Safety Vest & NO-Hardhat,UNSAFE
